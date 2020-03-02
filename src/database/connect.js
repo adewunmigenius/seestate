@@ -8,7 +8,7 @@ function getConnection() {
         host: '127.0.0.1',
         port: 3306,
         user: 'root',
-        password: 'genius10', // DB Password
+        password: '', // DB Password
         database: 'carRental' // DB name
     });
 
